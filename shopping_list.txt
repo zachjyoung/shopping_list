@@ -1,0 +1,4 @@
+1 * Milk 
+2 * Gatorade
+3 * Steak 
+4 * Corn on the cob
